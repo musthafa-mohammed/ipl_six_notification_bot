@@ -28,6 +28,7 @@ def if_six_hit():
                 #     print("New batsamn 1")
                 print(batsman1)
                 print(batsman2)
+    return True
 
 
 if_six_hit()
